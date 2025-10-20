@@ -4,5 +4,5 @@ Your attempt to override the containment triggers an alarm. Sirens wail.
 
 > Optional: Include a blockquote for your AI's reaction.
 
-- [Fight your way out](./ending1.md)
-- [Hide and wait](./ending2.md)
+- [Fight your way out](./scene3A.md)
+- [Hide and wait](./scene3B.md))
