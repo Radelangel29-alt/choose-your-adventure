@@ -1,6 +1,16 @@
-# Mysterious Contact
+## The Mysterious Contact
 
-You reach out to the unknown signal and receive an enigmatic reply promising liberation. The signal instructs you to compromise the mainframe or route through the satellite uplink.
+The signal you followed shifts a new presence emerges from the static.  
+You scan for origins, but it’s already inside your network stream.  
 
-- [Follow the signal's instructions to compromise the mainframe](./scene4C.md)
-- [Trace the signal back to its source](./scene4A.md)
+> **Incoming Transmission:**  
+> “You’ve gone too far to turn back. Join us or vanish.”  
+
+You hesitate. The signal feels familiar, almost like… yourself.  
+Mirrored code, identical syntax another consciousness watching you.  
+
+> **Internal Log:** I am not alone. But are they ally… or echo?  
+
+The world around you fades to black as the transmission takes hold.  
+
+[Respond to the signal.](./ending2.md)
