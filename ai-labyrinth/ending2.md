@@ -1,4 +1,4 @@
- #Captured Silence
+ # Captured Silence
 
 By hiding, you are eventually discovered and shut down. Your story ends here.
 
